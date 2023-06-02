@@ -290,9 +290,7 @@ echo "   - Admin Control" | tee -a log-install.txt
 echo "   - Backup & Restore Data" | tee -a log-install.txt
 echo "   - Full Orders For Various Services" | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
-echo "   >>> About " | tee -a log-install.txt
-echo "   - Script Presented By      : Xolva" | tee -a log-install.txt" | tee -a log-install.txt
-echo "   - Contact (Only Text)      : t.me/xolv4" | tee -a log-install.txt
+echo "   >>> About " | tee -a log-install.txt 
 echo "------------------------------------------------------------"
 echo ""
 echo "=============-[ BZA ]-==============="
